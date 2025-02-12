@@ -1,0 +1,22 @@
+/* class selector */
+.odd {
+    background-color: lightcoral;
+}
+
+/* 1st ID */
+#id-1 {
+    color: blue;
+    font-size: 36px;
+}
+
+/* alt class */
+.cooler {
+    font-size: 36px;
+}
+
+/* 2nd id */
+#id-2 {
+    background-color: aquamarine; 
+    font-size: 24px;
+    font-weight: bold;
+}
